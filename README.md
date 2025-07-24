@@ -16,7 +16,7 @@
 
 <h3 = align=center><em>Thank you for taking the time to review my work! I hope this portfolio gives insight into how I approach problems, support others, and contribute value to a team.</em></h3>
 
-## 𝚃𝙰𝙱𝙻𝙴 𝙾𝙵 𝙲𝙾𝙽𝚃𝙴𝙽𝚃𝚂 
+## 📜 𝚃𝙰𝙱𝙻𝙴 𝙾𝙵 𝙲𝙾𝙽𝚃𝙴𝙽𝚃𝚂 
 
 - `1. AZURE VIRTUAL MACHINE PROVISIONING ERROR`
 - `2. ANKI DECK INSTALLATION SUPPORT`
