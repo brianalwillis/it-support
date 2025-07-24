@@ -29,10 +29,10 @@
 - `9. AZURE VM VISIBILITY ISSUE`
 - `10. DELAYED .TXT TRIGGER`
 - `11. DISA WINDOWS 10 STIG HELP`
+- `12. VARIATION IN VULNERABILITY SCAN RESULTS`
 
 ### *In Progress (Need to Document)*
 
-- `12. NSG ACCESS AND RULE HELP`
 - `13. LINUX MDE ONBOARDING SUPPORT`
 - `14. UPDATED STIG TEMPLATE NAME`
 - `15. DISA TEMPLATE ACCESS HELP`
@@ -464,6 +464,44 @@ here's a picture:
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Tenable periodically updates` template names and UI elements, which may confuse if training materials are not updated.*</br>- *`Visual aids` like screenshots are highly effective in bridging gaps caused by UI changes.*</br>- *`Encouraging users` to rely on search and keywords in the interface can reduce dependence on outdated walkthroughs.*
 
+# 12. 𝚅𝙰𝚁𝙸𝙰𝚃𝙸𝙾𝙽 𝙸𝙽 𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝚃𝚈 𝚂𝙲𝙰𝙽 𝚁𝙴𝚂𝚄𝙻𝚃𝚂
+
+### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Vulnerability Scanning / Lab Result Discrepancy`*</br>**Date:** *`2025-06-29`*
+
+### **USER:** *`Cyril`*</br>**SUBJECT:** *`"Scan Results - Labs"`*
+
+```
+When we complete scans based on the labs for basic agent etc. or other scans -
+is the vulnerability results supposed to replicate the video?
+At times I barely have any severities or critical vulnerabilites as per josh's videos.
+I get alot of mediums and info related.
+Normally I'd say thats good because the system is secure -
+but for duplicity sake should we be getting the same results?
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*While following the lab instructions to perform a `vulnerability scan`, a student observed that their `scan results` did not exactly match those shown in the instructional videos. This caused confusion about whether their scan was successful.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Cyril`*
+```
+Your scan results will not always be 1:1 with Josh's scans.
+I'd say as long as your scans have the vulnerabilities you introduced
+(installing an outdated version of Firefox or Wireshark)
+by following his videos you should be fine.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I reassured the student that some variation in scan results is normal and expected due to multiple factors such as system state, patch levels, or scan timing. I explained that:*
+
+### *1. Scan results may vary depending on OS version, scan settings, or additional updates applied to the system*</br>*2. As long as the scan detects at least some of the deliberately introduced vulnerabilities (e.g., outdated software, insecure configurations), it should be considered valid*</br>*3. The goal of the lab is to understand scanning methodology and interpret results—not to produce an identical output*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student was satisfied with the clarification and continued with the lab, confident their scan was effective and acceptable.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Scans may produce different results` across environments, even when instructions are followed precisely.*</br>- *`Emphasizing learning objectives` over exact replication helps students focus on skill development.*</br>- *`Proactive reassurance` reduces unnecessary troubleshooting or doubt when slight variations occur.*
 
 
 
