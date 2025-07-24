@@ -31,11 +31,41 @@
 
 ### **USER:** *`Denzel`*</br>**SUBJECT:** *`"Is this a problem?"`*
 ```
-"I just started the vulnerability section, and it says virtual machine agent status not ready.
+I just started the vulnerability section, and it says virtual machine agent status not ready.
 I don' think it matters too much.
 It lets me open my VM normally, but I'd like to make sure.
-I followed everything to the T."
+I followed everything to the T.
+
 ```
+
+### 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*An intern encountered an `error message` immediately after creating a `virtual machine` in `Microsoft Azure`. The message caused uncertainty about whether the VM had been successfully deployed, resulting in confusion and concern.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Denzel`*
+```
+Hello Denzel,
+I just started the vulnerability management section as well and didn't receive that message.
+I just wanted to verify did waiting or refreshing fix your issue
+and have you run into any other issues with your VM since then?
+```
+
+### 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that Azure VM provisioning often takes a few minutes to complete and that the portal may temporarily display errors while resources are being configured in the background. I advised the student to:*
+
+### *1. Wait a few minutes*</br>*2. Refresh the Azure portal to check the VM status*
+
+---
+
+### 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*After a short time, the student confirmed that the VM had been successfully deployed and was accessible.*
+
+---
+
+### 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Cloud provisioning delays` are common and often resolved without intervention—knowing when to wait vs. escalate is essential.*</br>- *`Clear, calm communication` helped the student feel supported and confident rather than frustrated.*</br>- *`Verifying issues independently` before concluding helps provide accurate support and build trust.*
+
+---
+
+
+
 
 
 
