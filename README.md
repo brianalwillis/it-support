@@ -59,7 +59,7 @@ and have you run into any other issues with your VM since then?
 
 ---
 
-### ⚪ 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Cloud provisioning delays` are common and often resolved without intervention—knowing when to wait vs. escalate is essential.*</br>- *`Clear, calm communication` helped the student feel supported and confident rather than frustrated.*</br>- *`Verifying issues independently` before concluding helps provide accurate support and build trust.*
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Cloud provisioning delays` are common and often resolved without intervention—knowing when to wait vs. escalate is essential.*</br>- *`Clear, calm communication` helped the student feel supported and confident rather than frustrated.*</br>- *`Verifying issues independently` before concluding helps provide accurate support and build trust.*
 
 ---
 
