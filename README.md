@@ -188,6 +188,45 @@ I haven't experienced this issue, but have you tried this fix yet?
 
 ---
 
+# 5. 𝚃𝙴𝙽𝙰𝙱𝙻𝙴 𝚂𝙲𝙰𝙽 𝙰𝙱𝙾𝚁𝚃𝙸𝙽𝙶
+
+### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Vulnerability Scanning / Tenable Troubleshooting`*</br>**Date:** *`2025-06-26`*
+
+### **USER:** *`Cyril`*</br>**SUBJECT:** *`"Tenable"`*
+
+```
+First time using tenable and following along the lab.
+When you launch the scan -
+is it common to see the status change to aborted.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*An intern encountered `repeated failures` while running a `vulnerability scan` in `Tenable`. The scan kept `aborting` unexpectedly, preventing them from completing their assessment and progressing through the lab.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Cyril`*
+```
+Hello Cyril,
+Aside from checking your scan settings and making sure everything is correct
+you could check the error messages in the "warnings" tab to see why it aborted.
+Click on the scan, go to "see all details" bottom-right
+and you should see why it aborted.
+{screenshot}
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I guided the student through reviewing the warning logs associated with the aborted scan to help identify the root cause. Based on the logs, I recommended that they:*
+
+### *1. Review and adjust the scan configuration*</br>*2. Switch the scanner to use the `Local-Scan Engine` instead of the default setting*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student followed these steps, reconfigured the scan, and was able to complete the vulnerability assessment without further issues.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Reviewing scan logs` is a critical step in diagnosing failures in vulnerability tools like Tenable.*</br>- *`Customizing scan engine settings` can resolve compatibility or resource issues that interrupt automated assessments.*</br>- *`Empowering users to troubleshoot` based on logs promotes better tool fluency and confidence in handling real-world scenarios.*
+
+---
 
 
 
