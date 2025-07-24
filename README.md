@@ -35,9 +35,6 @@
 - `15. DISA WINDOWS 10 STIG HELP`
 - `16. DISA WINDOWS 10 STIG HELP`
 - `17. DISA WINDOWS 10 STIG HELP`
-
-### *In Progress (Need to Document)*
-
 - `18. CORRECTING ADMINISTRATOR USER GROUP`
 
 # 1. 𝙰𝚉𝚄𝚁𝙴 𝚅𝙸𝚁𝚃𝚄𝙰𝙻 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙿𝚁𝙾𝚅𝙸𝚂𝙸𝙾𝙽𝙸𝙽𝙶 𝙴𝚁𝚁𝙾𝚁
