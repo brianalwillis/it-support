@@ -82,7 +82,7 @@ Do you guys have the same issue?
 
 ---
 
-### **FROM:** *`Briana`*</br>**TO:** *`Denzel`*
+### **FROM:** *`Briana`*</br>**TO:** *`Rora`*
 ```
 Hello Rora,
 Do you have the ANKI app downloaded?
