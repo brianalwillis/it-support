@@ -30,11 +30,11 @@
 - `10. DELAYED .TXT TRIGGER`
 - `11. DISA WINDOWS 10 STIG HELP`
 - `12. VARIATION IN VULNERABILITY SCAN RESULTS`
+- `13. NETWORK SECURITY GROUP ACCESS / CONFIGURATION`
+- `14. ONBOARDING LINUX VM TO MDE`
 
 ### *In Progress (Need to Document)*
 
-- `13. LINUX MDE ONBOARDING SUPPORT`
-- `14. UPDATED STIG TEMPLATE NAME`
 - `15. DISA TEMPLATE ACCESS HELP`
 - `16. TENABLE STIG TEMPLATE UPDATE`
 - `17. ADMINISTRATOR GROUP ASSIGNMENT FIX`
@@ -502,6 +502,87 @@ by following his videos you should be fine.
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Scans may produce different results` across environments, even when instructions are followed precisely.*</br>- *`Emphasizing learning objectives` over exact replication helps students focus on skill development.*</br>- *`Proactive reassurance` reduces unnecessary troubleshooting or doubt when slight variations occur.*
+
+# 13. 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙶𝚁𝙾𝚄𝙿 𝙰𝙲𝙲𝙴𝚂𝚂 / 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝚃𝙸𝙾𝙽
+
+### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Network Security Group / Permissions & Inbound Rules`*</br>**Date:** *`2025-06-30`*
+
+### **USER:** *`Camilla`*</br>**SUBJECT:** *`"Ran into a wall with the Public IP Lab"`*
+
+```
+Hi all!
+I'm working on the first lab
+and have run into this issue where instead of having a unique student nsg,
+I have this cyber range nsg which I don't have access to.
+Has anyone run into this or able to provide some guidance on what steps I've missed?
+Much appreciated.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student attempted to access the `Network Security Group` (NSG) for the main `Cyber Range` environment but encountered a permissions issue, as they were not granted access to shared or administrative-level NSGs.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Camilla`*
+```
+Hello Camilla,
+Your NSG should be right below the Cyber Range NSG like in the screenshot.
+If you don't see your VM's NSG I'd recommend deleting the VM
+and recreating it while following along closely to Josh's video again.
+Perhaps you missed a step / setting.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that access to the core Cyber Range NSG is restricted and guided the student to their own resources. I then:*
+
+### *1. Helped the student navigate to their assigned NSG within their personal resource group*</br>*2. Confirmed it was properly associated with their virtual machine’s network interface or subnet*</br>*3. Walked them through the process of creating a new inbound port rule, including setting the correct port number, protocol, and priority*</br>*4. Recommended testing the connection after the rule was applied to verify access*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student successfully located their own NSG, created the necessary inbound port rule, and was able to access the intended service or port on their virtual machine.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Students often attempt to access shared or administrative Azure resources when unsure where their own are located.*</br>- *`Reinforcing` the concept of per-student resource groups helps clarify boundaries and access control.*</br>- *`Hands-on guidance` through rule creation strengthens students’ understanding of NSG functionality and firewall logic.*
+
+# 14. 𝙾𝙽𝙱𝙾𝙰𝚁𝙳𝙸𝙽𝙶 𝙻𝙸𝙽𝚄𝚇 𝚅𝙼 𝚃𝙾 𝙼𝙳𝙴
+
+### **PLATFORM:** *`Linux / Microsoft Defender for Endpoint (MDE)`*</br>**CATEGORY:** *`Endpoint Security / VM Onboarding`*</br>**Date:** *`2025-07-07`*
+
+### **USER:** *`Demetrious`*</br>**SUBJECT:** *`"Onboarding Linux VM to MDE"`*
+
+```
+Hey Range,
+having some issues onboarding my newly created VM to MDE.
+I downloaded the package from {link} -
+the lab for "Onboarding a VM to MDE, Isolation, and Investigation".
+Unzipped the the enclosed text file but stuck at that point.
+Any tips would be helpful.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A user was attempting to onboard a `Linux virtual machine` to `Microsoft Defender for Endpoint` (MDE) using the provided `onboarding package` but encountered technical difficulties and was unsure how to proceed.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Demetrious`*
+```
+Hello Demetrious,
+After you unzipped the package
+try to change the directory "cd mde_onboarding" to check if you have the file "MicrosoftDefenderATPOnboardingLinuxServer.py".
+Make sure the script is executable "chmod +x MicrosoftDefenderATPOnboardingLinuxServer.py"
+then run it "sudo ./MicrosoftDefenderATPOnboardingLinuxServer.py".
+Hope this helps!
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*Since the student’s immediate goal was to complete the “Onboarding a VM to MDE” lab, I recommended a more accessible approach using Windows. Specifically, I:*
+
+### *1. Suggested creating a Windows 10 VM instead, which aligns with the official lab video tutorial by Josh*</br>*2. Explained that Windows onboarding is more straightforward for first-time MDE users and better supported by the lab materials*</br>*3. Provided a step-by-step guide from an IR community lab for onboarding Linux VMs to MDE for future reference*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student proceeded with the Windows 10 VM option and completed the lab using the video tutorial. They also saved the Linux onboarding guide for future use.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Linux onboarding to MDE is more complex and may require additional support not covered in standard lab videos.*</br>- *`When available, guided tutorials (e.g., videos) provide the clearest learning path for students.*</br>- *`Supplying advanced resources for later exploration encourages independent learning beyond lab requirements.*
 
 
 
