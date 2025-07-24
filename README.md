@@ -151,6 +151,43 @@ Here is where you'll create a new port rule:
 
 ---
 
+# 4. 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙴𝚁𝚁𝙾𝚁
+
+### **PLATFORM:** *`Linux Virtual Machine`*</br>**CATEGORY:** *`Linux Troubleshooting / Package Management`*</br>**Date:** *`2025-06-26`*
+
+### **USER:** *`Sam`*</br>**SUBJECT:** *`"Hitting a snag with the Linux Vulnerability Lab"`*
+
+```
+Hello everyone.
+I am hitting a similar snag working my way through the lab.
+I am running the sudo systemctl enable inted.service command but getting an error message.
+The ubuntu version that I am working with is 24.04.
+Has anyone experience this issue or know of a fix?
+Please see the screen shot attached.
+Thanks in advance.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*During the `Vulnerability Management Lab`, an intern encountered an `error message` when attempting to run a `system command`. The issue was traced to a `severed link` between a `system service` and its associated `package`, which prevented the command from executing properly.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Sam`*
+```
+Hello Sam,
+I haven't experienced this issue, but have you tried this fix yet?
+{screenshot}
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I researched the error message and pinpointed its root cause. Based on the findings, I recommended a potential fix involving package reinstallation. I then:*
+
+### *1. Walked the student through identifying the affected package*</br>*2. Guided them through the correct steps to reinstall it*</br>*3. Confirmed that the service link was restored and the command executed successfully*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Understanding package-service relationships` is key to diagnosing Linux system issues effectively.*</br>- *`Guided troubleshooting` not only fixes the problem but also helps students build independence and confidence in handling errors.*
+
+---
+
 
 
 
