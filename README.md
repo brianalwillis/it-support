@@ -6,11 +6,11 @@
 
 <h2 = align=center>𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝚃𝙴𝙲𝙷𝙽𝙸𝙲𝙰𝙻 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙿𝙾𝚁𝚃𝙵𝙾𝙻𝙸𝙾</h2>
 
-<h3 = align=center><em>This portfolio highlights the hands-on technical experience, problem-solving strategies, and team support I provided during my internship at `LOG(N) Pacific`.</em></h3>
+<h3 = align=center><em>This portfolio highlights the hands-on technical experience, problem-solving strategies, and team support I provided during my internship at <code>LOG(N) Pacific</code>.</em></h3>
 
-<h3 = align=center><em>Throughout my time here, I’ve proactively assisted interns and community members with a wide variety of challenges—from Azure virtual machine provisioning errors and Tenable scan issues to SSH/RDP connection failures, system service errors, and onboarding to Microsoft Defender for Endpoint. While my role was not formally part of IT, I stepped up wherever I saw opportunities to improve technical workflows, clarify confusing documentation, or help peers overcome blockers.</em></h3>
+<h3 = align=center><em>Throughout my time here, I’ve proactively assisted other interns and community members with a wide variety of challenges—from <code>Azure virtual machine provisioning errors</code> and <code>Tenable scan issues</code> to <code>SSH/RDP connection failures</code>, <code>system service errors</code>, and <code>onboarding to Microsoft Defender for Endpoint</code>. While my role was not formally part of IT, I stepped up wherever I saw opportunities to improve technical workflows, clarify confusing documentation, or help peers overcome blockers.</em></h3>
 
-<h3 = align=center><em>Whether guiding someone through configuring a Network Security Group, troubleshooting a failed vulnerability scan, or demystifying changes in compliance templates, I aimed to provide clear, practical solutions that built both trust and technical confidence within the team.</em></h3>
+<h3 = align=center><em>Whether guiding someone through configuring a <code>Network Security Group</code>, <code>troubleshooting a failed vulnerability scan</code>, or <code>demystifying changes in compliance templates</code>, I aimed to provide clear, practical solutions that built both trust and technical confidence within the team.</em></h3>
 
 <h3 = align=center><em>Each case outlines a real support scenario I helped resolve, including context, steps taken, outcomes, and lessons learned. My goal is not just to demonstrate my technical skills, but also my initiative, communication, and collaborative mindset when tackling challenges.</em></h3>
 
