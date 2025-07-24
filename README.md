@@ -29,7 +29,10 @@
 
 # 1. 𝙰𝚉𝚄𝚁𝙴 𝚅𝙸𝚁𝚃𝚄𝙰𝙻 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙿𝚁𝙾𝚅𝙸𝚂𝙸𝙾𝙽𝙸𝙽𝙶 𝙴𝚁𝚁𝙾𝚁
 
+### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Cloud Computing / Azure Support`*</br>**Date:** *`2025-06-24`*
+
 ### **USER:** *`Denzel`*</br>**SUBJECT:** *`"Is this a problem?"`*
+
 ```
 I just started the vulnerability section, and it says virtual machine agent status not ready.
 I don't think it matters too much.
@@ -49,22 +52,57 @@ I just wanted to verify did waiting or refreshing fix your issue
 and have you run into any other issues with your VM since then?
 ```
 
-### 🟠 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that Azure VM provisioning often takes a few minutes to complete and that the portal may temporarily display errors while resources are being configured in the background. I advised the student to:*
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that Azure VM provisioning often takes a few minutes to complete and that the portal may temporarily display errors while resources are being configured in the background. I advised the student to:*
 
 ### *1. Wait a few minutes*</br>*2. Refresh the Azure portal to check the VM status*
 
 ---
 
-### 🟡 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*After a short time, the student confirmed that the VM had been successfully deployed and was accessible.*
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*After a short time, the student confirmed that the VM had been successfully deployed and was accessible.*
 
 ---
 
-### 🟢 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Cloud provisioning delays` are common and often resolved without intervention—knowing when to wait vs. escalate is essential.*</br>- *`Clear, calm communication` helped the student feel supported and confident rather than frustrated.*</br>- *`Verifying issues independently` before concluding helps provide accurate support and build trust.*
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Cloud provisioning delays` are common and often resolved without intervention—knowing when to wait vs. escalate is essential.*</br>- *`Clear, calm communication` helped the student feel supported and confident rather than frustrated.*</br>- *`Verifying issues independently` before concluding helps provide accurate support and build trust.*
 
 ---
 
 # 2. 𝙰𝙽𝙺𝙸 𝙳𝙴𝙲𝙺 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃
 
+### **PLATFORM:** *`ANKI`*</br>**CATEGORY:** *`Study Tools / Technical Resource Setup`*</br>**Date:** *`2025-06-25`*
+
+### **USER:** *`Rora`*</br>**SUBJECT:** *`"Question"`*
+
+```
+I’m trying to download the ANKI deck interview questions but this is what I keep getting.
+Take a look at the pic.
+Do you guys have the same issue?
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*An intern encountered difficulties accessing the `Cyber Interview Questions resource`, which was provided as an `Anki flashcard deck`. The issue stemmed from not having the `Anki app` installed, leading to confusion about how to properly open and use the resources.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Denzel`*
+```
+Hello Rora,
+Do you have the ANKI app downloaded?
+Download the ANKI app here https://apps.ankiweb.net/ and when you open the interview questions,
+you should be prompted to import the cards into your ANKI deck.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I walked the community member through the process of setting up Anki:*
+
+### *1. Directed them to download and install the official Anki app*</br>*2. Advised them to import the flashcard deck directly into the platform*</br>*3. Ensured they could see and use the cards within Anki’s interface*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*Following these steps, the member successfully accessed the study material as intended.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Understanding user familiarity` with tools like Anki is important—what's intuitive for one person may be unfamiliar to another.*</br>- *`Step-by-step guidance` ensures clarity and builds confidence, especially with new or unfamiliar platforms.*</br>- *`Efficient setup support` enables users to focus on their goals without technical roadblocks.*
+
+---
 
 
 
