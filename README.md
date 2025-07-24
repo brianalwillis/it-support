@@ -64,8 +64,6 @@ and have you run into any other issues with your VM since then?
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Cloud provisioning delays` are common and often resolved without intervention—knowing when to wait vs. escalate is essential.*</br>- *`Clear, calm communication` helped the student feel supported and confident rather than frustrated.*</br>- *`Verifying issues independently` before concluding helps provide accurate support and build trust.*
 
----
-
 # 2. 𝙰𝙽𝙺𝙸 𝙳𝙴𝙲𝙺 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃
 
 ### **PLATFORM:** *`ANKI`*</br>**CATEGORY:** *`Study Tools / Technical Resource Setup`*</br>**Date:** *`2025-06-25`*
@@ -101,10 +99,6 @@ you should be prompted to import the cards into your ANKI deck.
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Understanding user familiarity` with tools like Anki is important—what's intuitive for one person may be unfamiliar to another.*</br>- *`Step-by-step guidance` ensures clarity and builds confidence, especially with new or unfamiliar platforms.*</br>- *`Efficient setup support` enables users to focus on their goals without technical roadblocks.*
-
----
-
----
 
 # 3. 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙶𝚁𝙾𝚄𝙿 𝙰𝙲𝙲𝙴𝚂𝚂
 
@@ -149,8 +143,6 @@ Here is where you'll create a new port rule:
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Permission scopes in Azure` can vary between shared and individual resources—clarity on resource ownership is crucial.*</br>- *`Hands-on walkthroughs` are effective for helping users build confidence with cloud networking concepts.*
 
----
-
 # 4. 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙴𝚁𝚁𝙾𝚁
 
 ### **PLATFORM:** *`Linux Virtual Machine`*</br>**CATEGORY:** *`Linux Troubleshooting / Package Management`*</br>**Date:** *`2025-06-26`*
@@ -185,8 +177,6 @@ I haven't experienced this issue, but have you tried this fix yet?
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Understanding package-service relationships` is key to diagnosing Linux system issues effectively.*</br>- *`Guided troubleshooting` not only fixes the problem but also helps students build independence and confidence in handling errors.*
-
----
 
 # 5. 𝚃𝙴𝙽𝙰𝙱𝙻𝙴 𝚂𝙲𝙰𝙽 𝙰𝙱𝙾𝚁𝚃𝙸𝙽𝙶
 
@@ -226,8 +216,6 @@ and you should see why it aborted.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Reviewing scan logs` is a critical step in diagnosing failures in vulnerability tools like Tenable.*</br>- *`Customizing scan engine settings` can resolve compatibility or resource issues that interrupt automated assessments.*</br>- *`Empowering users to troubleshoot` based on logs promotes better tool fluency and confidence in handling real-world scenarios.*
 
----
-
 # 6. 𝚁𝙴𝙼𝙾𝚃𝙴 𝙳𝙴𝚂𝙺𝚃𝙾𝙿 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽 𝙵𝙰𝙸𝙻𝚄𝚁𝙴
 
 ### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Remote Access / Virtual Machine Configuration`*</br>**Date:** *`2025-06-27`*
@@ -262,8 +250,6 @@ with a public IP address in order to connect to a remote desktop.
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Public IP assignment` is essential for remote access to cloud-hosted resources.*</br>- *`Understanding VM provisioning steps` helps prevent common misconfigurations.*</br>- *`Clear setup guidance` not only fixed the issue but also gave the student a better grasp of Azure’s networking and RDP requirements.*
-
----
 
 # 7. SSH CONNECTION FAILURE
 
@@ -306,8 +292,6 @@ and pay close attention to the setup video.
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Accurate connection credentials` (username, password, IP) are critical for successful SSH access.*</br>- *`Systematic troubleshooting` can isolate the cause of access issues and avoid unnecessary rework.*</br>- *`Teaching resilient problem-solving`—including when to rebuild a resource—is just as valuable as solving the immediate issue.*
-
----
 
 # 8. 𝙰𝙳𝙼𝙸𝙽𝙸𝚂𝚃𝚁𝙰𝚃𝙾𝚁 𝚄𝚂𝙴𝚁 𝙲𝙾𝙽𝙵𝙻𝙸𝙲𝚃
 
