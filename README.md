@@ -28,10 +28,10 @@
 - `8. ADMINISTRATOR USER CONFLICT`
 - `9. AZURE VM VISIBILITY ISSUE`
 - `10. DELAYED .TXT TRIGGER`
+- `11. DISA WINDOWS 10 STIG HELP`
 
 ### *In Progress (Need to Document)*
 
-- `11. SCAN RESULTS CLARIFICATION`
 - `12. NSG ACCESS AND RULE HELP`
 - `13. LINUX MDE ONBOARDING SUPPORT`
 - `14. UPDATED STIG TEMPLATE NAME`
@@ -424,6 +424,45 @@ I did that as well and I think it took about 30 mins after for the start.txt fil
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Monitoring agents` may experience temporary syncing delays, especially in lab environments.*</br>- *`A manual refresh` often resolves timing issues without deeper troubleshooting.*</br>- *`Providing a buffer window` and explaining system behavior helps manage user expectations effectively.*
+
+# 11. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+
+### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG Configuration`*</br>**Date:** *`2025-06-29`*
+
+### **USER:** *`Chiemelie`*</br>**SUBJECT:** *`"Using a DISA STIG Scan Template"`*
+
+```
+Hey guys,
+I ran into a problem around minute 13 of the video.
+in the first screenshot which I took from josh's video,
+he selected Windows and then selected 'DISA Windows 10 STIG v2r9',
+but for some reason on my tenable,
+there is no 'windows' or 'DISA Windows 10 STIG v2r9'.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student was unable to locate the `Windows 10 DISA STIG compliance template` within the `Tenable` interface. The issue stemmed from differences between the current UI and the one shown in an older instructional video.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Chiemelie`*
+```
+Hello Chiemelie,
+I ran into this same problem,
+here's a picture:
+{screenshot}
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that the compliance templates in Tenable have been updated since the original instructional video was recorded. To assist the student in locating the correct resource, I:*
+
+### *1. Searched the current Tenable template library for the updated template name*</br>*2. Sent the student a screenshot showing the correct and updated template: “DISA Microsoft Windows 10 STIG”*</br>*3. Recommended using the search function in the compliance section to locate templates by keyword (e.g., “Windows 10”, “DISA”)”*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student was able to locate and apply the correct compliance template using the updated name. They were able to proceed with the lab.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Tenable periodically updates` template names and UI elements, which may confuse if training materials are not updated.*</br>- *`Visual aids` like screenshots are highly effective in bridging gaps caused by UI changes.*</br>- *`Encouraging users` to rely on search and keywords in the interface can reduce dependence on outdated walkthroughs.*
 
 
 
