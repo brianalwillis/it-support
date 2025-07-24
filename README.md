@@ -104,7 +104,52 @@ you should be prompted to import the cards into your ANKI deck.
 
 ---
 
+---
 
+# 3. 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙶𝚁𝙾𝚄𝙿 𝙰𝙲𝙲𝙴𝚂𝚂
+
+### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Cloud Networking / Azure Permissions`*</br>**Date:** *`2025-06-25`*
+
+### **USER:** *`Chiemelie`*</br>**SUBJECT:** *`"No access to permissions / security rule on Public IP VMs"`*
+
+```
+Hey guys,
+I am currently in the vulnearability management section of the cyber range,
+and i am on the part where we create virtual machines with a public ip address.
+i'm in Vulnerability Management w/ Tenable > Accessing Tenable and Azure > Public IP
+How to Create An Azure Virtual Machine.
+whenever i click nsg-cyber-range-2 here:
+i always get the message you do not have access,
+and i can't create any port rules as well as it says the same thing.
+I would appreciate any help
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*An intern attempted to access a `Network Security Group` (NSG) within the `Cyber Range` environment but encountered a `permissions error`. They were trying to interact with an `NSG` they weren’t authorized to manage, leading to confusion about how to proceed with their `VM setup`.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Chiemelie`*
+```
+Hey Chiemelie,
+So you're on the nsg-cyber-range-2.
+The one below that is your network security group.
+Here is where you'll create a new port rule:
+{screenshot}
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that each student is provisioned with their own NSG within a dedicated resource group. I guided the student to:*
+
+### *1. Locate their personal NSG within their assigned resource group*</br>*2. Understand the purpose and structure of inbound port rules*</br>*3. Create a new inbound rule as required for the exercise*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*This resolved their access issue and enabled them to proceed with their setup.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Permission scopes in Azure` can vary between shared and individual resources—clarity on resource ownership is crucial.*</br>- *`Hands-on walkthroughs` are effective for helping users build confidence with cloud networking concepts.*
+
+---
 
 
 
