@@ -32,13 +32,13 @@
 - `12. VARIATION IN VULNERABILITY SCAN RESULTS`
 - `13. NETWORK SECURITY GROUP ACCESS / CONFIGURATION`
 - `14. ONBOARDING LINUX VM TO MDE`
+- `15. DISA WINDOWS 10 STIG HELP`
+- `16. DISA WINDOWS 10 STIG HELP`
+- `17. DISA WINDOWS 10 STIG HELP`
 
 ### *In Progress (Need to Document)*
 
-- `15. DISA TEMPLATE ACCESS HELP`
-- `16. TENABLE STIG TEMPLATE UPDATE`
-- `17. ADMINISTRATOR GROUP ASSIGNMENT FIX`
-- `18. ADMIN USER GROUP CONFLICT`
+- `18. CORRECTING ADMINISTRATOR USER GROUP`
 
 # 1. 𝙰𝚉𝚄𝚁𝙴 𝚅𝙸𝚁𝚃𝚄𝙰𝙻 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙿𝚁𝙾𝚅𝙸𝚂𝙸𝙾𝙽𝙸𝙽𝙶 𝙴𝚁𝚁𝙾𝚁
 
@@ -584,8 +584,145 @@ Hope this helps!
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Linux onboarding to MDE` is more complex and may require additional support not covered in standard lab videos.*</br>- *When available, `guided tutorials` provide the clearest learning path for students.*</br>- *`Supplying advanced resources` for later exploration encourages independent learning beyond lab requirements.*
 
+# 15. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
 
+### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG`*</br>**Date:** *`2025-07-07`*
 
+### **USER:** *`Quintin`*</br>**SUBJECT:** *`"Why isnt DISA Windows 10 STIG v2r9 an option for me?"`*
 
+```
+what am i suppose to select if i don't see this as in option under compliance in Tenable?
+{screenshot}
+```
 
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student was unable to find the DISA Windows 10 STIG compliance template as shown in the training video. The template appeared missing or renamed in the current Tenable interface.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Quintin`*
+```
+Hello Quintin,
+Type "DISA Microsoft" and you should see the Windows 10 option.
+{screenshot}
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I informed the student that Tenable’s compliance templates had been updated since the video was created. To assist, I:*
+
+### *1. Located the updated template under the new name: “DISA Microsoft Windows 10 STIG”*</br>*2. Sent the student a screenshot showing the updated template name and location*</br>*3. Recommended using the search functionality within Tenable’s compliance section to find templates by keywords in the future*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student successfully located and applied the updated DISA Windows 10 STIG compliance template and continued their lab work.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Software platforms` may rename or reorganize templates, causing discrepancies with older training materials.*</br>- *`Visual aids` like screenshots are effective for quickly bridging such gaps.*</br>- *`Encouraging use of search tools` helps users adapt to interface updates independently.*
+
+# 16. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+
+### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG`*</br>**Date:** *`2025-07-10`*
+
+### **USER:** *`Cyril`*</br>**SUBJECT:** *`"General Question / Outdated?"`*
+
+```
+When doing user defined scans -
+The video says to use Win10-Vulnerabilities +Disa Scan -
+but when creating the azure virtual machine
+only Windows 11 is available?
+Am I doing something wrong or did azure discontinue Windows10?
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student was unable to find the DISA Windows 10 STIG compliance template as shown in the training video. The template appeared missing or renamed in the current Tenable interface.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Cyril`*
+```
+Hello Cyril,
+The video is outdated.
+Tenable has since changed it to "DISA Microsoft Windows 10 STIG v3r4".
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I informed the student that Tenable’s compliance templates had been updated since the video was created. To assist, I:*
+
+### *1. Located the updated template under the new name: “DISA Microsoft Windows 10 STIG”*</br>*2. Sent the student a screenshot showing the updated template name and location*</br>*3. Recommended using the search functionality within Tenable’s compliance section to find templates by keywords in the future*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student successfully located and applied the updated DISA Windows 10 STIG compliance template and continued their lab work.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Software platforms` may rename or reorganize templates, causing discrepancies with older training materials.*</br>- *`Visual aids` like screenshots are effective for quickly bridging such gaps.*</br>- *`Encouraging use of search tools` helps users adapt to interface updates independently.*
+
+# 17. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+
+### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG`*</br>**Date:** *`2025-07-14`*
+
+### **USER:** *`Harrison`*</br>**SUBJECT:** *`"Compliance - Windows 10 STIG not showing"`*
+
+```
+Hi all,
+Windows 10 DISA STIG is not showing up in my search.
+I don't even see anything with Windows in my search
+{screenshot}
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student was unable to find the DISA Windows 10 STIG compliance template as shown in the training video. The template appeared missing or renamed in the current Tenable interface.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Harrison`*
+```
+Hello Harrison
+You'll want to type in "DISA Microsoft Windows 10" and the one you're looking for should show up.
+The name in Tenable had changed since the making of Josh's video.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I informed the student that Tenable’s compliance templates had been updated since the video was created. To assist, I:*
+
+### *1. Located the updated template under the new name: “DISA Microsoft Windows 10 STIG”*</br>*2. Sent the student a screenshot showing the updated template name and location*</br>*3. Recommended using the search functionality within Tenable’s compliance section to find templates by keywords in the future*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student successfully located and applied the updated DISA Windows 10 STIG compliance template and continued their lab work.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Software platforms` may rename or reorganize templates, causing discrepancies with older training materials.*</br>- *`Visual aids` like screenshots are effective for quickly bridging such gaps.*</br>- *`Encouraging use of search tools` helps users adapt to interface updates independently.*
+
+# 18. 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙸𝙽𝙶 𝙰𝙳𝙼𝙸𝙽𝙸𝚂𝚃𝚁𝙰𝚃𝙾𝚁 𝚄𝚂𝙴𝚁 𝙶𝚁𝙾𝚄𝙿
+
+### **PLATFORM:** *`Windows`*</br>**CATEGORY:** *`User Management / Group Assignment`*</br>**Date:** *`2025-07-20`*
+
+### **USER:** *`Libio`*</br>**SUBJECT:** *`"Help with VM setup"`*
+
+```
+cant add to administrator,
+tried deleting the vm and doing it all over again
+but it cant find the object name
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*The user was attempting to add the built-in user account named `"Administrator"` to the group also named `"Administrator"`, which caused confusion and prevented successful group assignment.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Libio`*
+```
+Hello Libio,
+From what I understand you're trying to add the user Administrator to the Administrators group?
+Try "Administrators" instead of "Administrator".
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that the correct group name is "Administrators" (plural), not "Administrator". To resolve the issue, I advised the user to:*
+
+### *1. Add the user "Administrator" to the group named "Administrators"*</br>*2. Verify the membership change to confirm elevated privileges*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The user successfully added the Administrator account to the correct group, allowing the intended administrative permissions to take effect.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Built-in Windows user and group names` may be similar but are distinct and must be referenced accurately.*</br>- *`Clear understanding` of user vs. group naming conventions prevents common permission errors.*</br>- *`Providing precise terminology` improves troubleshooting efficiency.*
 
