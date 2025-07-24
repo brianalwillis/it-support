@@ -26,11 +26,11 @@
 - `6. REMOTE DESKTOP CONNECTION FAILURE`
 - `7. SSH CONNECTION FAILURE`
 - `8. ADMINISTRATOR USER CONFLICT`
+- `9. AZURE VM VISIBILITY ISSUE`
+- `10. DELAYED .TXT TRIGGER`
 
 ### *In Progress (Need to Document)*
 
-- `9. AGENT START.TXT DELAY FIX`
-- `10. FINDING DISA STIG TEMPLATE`
 - `11. SCAN RESULTS CLARIFICATION`
 - `12. NSG ACCESS AND RULE HELP`
 - `13. LINUX MDE ONBOARDING SUPPORT`
@@ -344,7 +344,90 @@ and assigned it to the Administrators group.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Reserved usernames` like "Administrator" can’t be reused for new accounts and will cause system-level conflicts.*</br>- *`Naming flexibility` is essential when working within predefined system roles and policies, especially in compliance-driven environments.*</br>- *`Awareness of OS defaults` is key to avoiding common setup errors in security-focused labs.*
 
+# 9. AZURE VM VISIBILITY ISSUE
+
+### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Virtual Machine Visibility / User Interface Troubleshooting`*</br>**Date:** *`2025-06-28`*
+
+### **USER:** *`David`*</br>**SUBJECT:** *`"Not Seeing Windows-Target-1 in Azure Portal"`*
+
+```
+I am on the Scenario 1:
+Devices Exposed to the Internet module
+and I am not seeing Windows-Target-1 in the Azure Portal.
+I am pretty sure I saw it a few days ago.
+I understand I can make my own VM for the exercise,
+but I wanted to check to see if anyone else noticed that that VM was missing.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student was unable to locate the `windows-target-1` virtual machine in the `Azure Portal`. Although the VM was confirmed to be online, it was not visible in the student’s portal interface.*
+
 ---
+
+### **FROM:** *`Briana`*</br>**TO:** *`David`*
+```
+Hello David,
+The Windows-Target-1 is there.
+{screenshot}
+The only reason it might be missing for you is that a filter is applied.
+I'm not sure which scenario this is,
+but you should probably make your own VM for all labs and projects.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I confirmed that the virtual machine was online and explained that the issue was likely caused by active filters in the Azure Portal hiding the VM from view. I advised the student to:*
+
+### *1. Go to the Azure Portal and navigate to the Virtual Machines section*</br>*2. Click the “Filters” button near the top of the VM list*</br>*3. Clear all applied filters (e.g., subscription, location, resource group)*</br>*4. Refresh the VM list to check if the VM becomes visible*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The VM became visible again after adjusting the filters. The user regained access and was able to proceed with their tasks.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Azure Portal filters` can obscure visible resources and are a common cause of user-side visibility issues.*</br>- *`Verifying VM status independently` helps confirm whether the issue is related to the resource or the interface.*</br>- *`Encouraging users` to create and manage their resources promotes learning and reduces dependency on pre-provisioned environments.*
+
+# 10. 𝙳𝙴𝙻𝙰𝚈𝙴𝙳 .𝚃𝚇𝚃 𝚃𝚁𝙸𝙶𝙶𝙴𝚁
+
+### **PLATFORM:** *`Windows / Tenable`*</br>**CATEGORY:** *`Agent-Based Monitoring / File Trigger Delay`*</br>**Date:** *`2025-06-29`*
+
+### **USER:** *`Cyril`*</br>**SUBJECT:** *`"Agent Based Monitoring Windows"`*
+
+```
+Hi guys,
+just wanted to know whoever completed this lab -
+how long did it take for tenable in the vm to trigger the start.txt file.
+In the video he estimated his taking 15 minutes.
+Personally Im at over an hour now and it still hasn't triggered the file.
+Its running in tenable but the file still hasn't deleted from the triggers folder.
+So just polling to see how long should I expect to wait.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A student reported a delay of over an hour in the `triggering` of the `start.txt` file, which is expected to be activated by the `monitoring agent`. Although the agent appeared to be running, the trigger file was not responding as expected.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Cyril`*
+```
+Hello Cyril,
+I remember it taking a very long time for me.
+I think in the video Josh did some sort of command to "refresh".
+I did that as well and I think it took about 30 mins after for the start.txt file to disappear.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I confirmed that the agent was active and explained that delays between agent actions and file triggers can sometimes occur due to sync or processing lags. I advised the student to:*
+
+### *1. Manually refresh the agent by restarting its service or running a check-in command*</br>*2. Allow an additional 30 minutes for the system to process and register the trigger*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The student followed the guidance, and the start.txt file was successfully triggered after the waiting period, confirming agent functionality.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Monitoring agents` may experience temporary syncing delays, especially in lab environments.*</br>- *`A manual refresh` often resolves timing issues without deeper troubleshooting.*</br>- *`Providing a buffer window` and explaining system behavior helps manage user expectations effectively.*
+
+
+
+
 
 
 
