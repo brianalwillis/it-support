@@ -16,16 +16,16 @@
 
 <h3 = align=center><em>Thank you for taking the time to review my work! I hope this portfolio gives insight into how I approach problems, support others, and contribute value to a team.</em></h3>
 
-<h2 = align=center>𝚃𝙰𝙱𝙻𝙴 𝙾𝙵 𝙲𝙾𝙽𝚃𝙴𝙽𝚃𝚂</h2>
+## 𝚃𝙰𝙱𝙻𝙴 𝙾𝙵 𝙲𝙾𝙽𝚃𝙴𝙽𝚃𝚂 
 
-<div align="center"><code>1. AZURE VIRTUAL MACHINE PROVISIONING ERROR</code></div>
-<div align="center"><code>2. ANKI DECK INSTALLATION SUPPORT</code></div>
-<div align="center"><code>3. NETWORK SECURITY GROUP ACCESS</code></div>
-<div align="center"><code>4. SYSTEM SERVICE ERROR</code></div>
-<div align="center"><code>5. TENABLE SCAN ABORTING</code></div>
-<div align="center"><code>6. REMOTE DESKTOP CONNECTION FAILURE</code></div>
-<div align="center"><code>7. SSH CONNECTION FAILURE</code></div>
-<div align="center"><code>8. ADMINISTRATOR USER CONFLICT</code></div>
+- `1. AZURE VIRTUAL MACHINE PROVISIONING ERROR`
+- `2. ANKI DECK INSTALLATION SUPPORT`
+- `3. NETWORK SECURITY GROUP ACCESS`
+- `4. SYSTEM SERVICE ERROR`
+- `5. TENABLE SCAN ABORTING`
+- `6. REMOTE DESKTOP CONNECTION FAILURE`
+- `7. SSH CONNECTION FAILURE`
+- `8. ADMINISTRATOR USER CONFLICT`
 
 # 1. 𝙰𝚉𝚄𝚁𝙴 𝚅𝙸𝚁𝚃𝚄𝙰𝙻 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙿𝚁𝙾𝚅𝙸𝚂𝙸𝙾𝙽𝙸𝙽𝙶 𝙴𝚁𝚁𝙾𝚁
 
