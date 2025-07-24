@@ -763,5 +763,5 @@ It's suppose to look like this and can't be filtered out.
 
 ---
 
-### *Back to the [*`TABLE OF CONTENTS`*](#TABLE-OF-CONTENTS)*
+[*`Table of Contents`*](#TABLE-OF-CONTENTS)*
 
