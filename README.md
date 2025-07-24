@@ -761,4 +761,7 @@ It's suppose to look like this and can't be filtered out.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Hashing in workbooks` is a privacy feature to anonymize sensitive information.*</br>- *`Users may need reassurance` that such data representations are intentional and secure.*</br>- *`Providing clear explanations` about data anonymization helps reduce confusion during analysis.*
 
+---
+
+### *Back to the [*Table of Contents](#Table-of-Contents)
 
