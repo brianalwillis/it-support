@@ -265,6 +265,49 @@ with a public IP address in order to connect to a remote desktop.
 
 ---
 
+# 7. SSH CONNECTION FAILURE
+
+### **PLATFORM:** *`Linux Virtual Machine`*</br>**CATEGORY:** *`Remote Access / Linux VM Troubleshooting`*</br>**Date:** *`2025-06-27`*
+
+### **USER:** *`Tolu`*</br>**SUBJECT:** *`"SSH ACCESS HELP"`*
+
+```
+Hi everyone,
+has anyone experienced this before?
+I can ping my VM’s public IP address,
+but I can’t SSH into it, even though I'm using the correct credentials.
+Does anyone know what might be causing this or how to fix it?
+Any help would be appreciated!
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*An intern was unable to establish an `SSH connection` to their `Linux virtual machin` in the `Cyber Range` environment, which prevented them from completing their assigned lab tasks.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Tolu`*
+```
+Hello Tolu,
+I haven't had an issue connecting to my Linux VM,
+but my suggestion would be to ensure everything is correct: username, password, public IP address,
+and perhaps using "Command Prompt" instead of "Windows PowerShell."
+If all else fails,
+delete the VM and restart from the beginning
+and pay close attention to the setup video.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I advised the student to first verify the key connection details:*
+
+### *1. Ensure the correct username and password are being used*</br>*2. Confirm the public IP address of the virtual machine*</br>*3. Attempt the SSH connection via Windows Command Prompt to rule out browser-based or tool-specific issues*</br>*4. Delete the VM and recreate it, making sure to configure it correctly during provisioning*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*This approach resolved the issue and allowed them to access the VM successfully.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Accurate connection credentials` (username, password, IP) are critical for successful SSH access.*</br>- *`Systematic troubleshooting` can isolate the cause of access issues and avoid unnecessary rework.*</br>- *`Teaching resilient problem-solving`—including when to rebuild a resource—is just as valuable as solving the immediate issue.*
+
+---
 
 
 
