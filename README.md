@@ -541,7 +541,7 @@ Perhaps you missed a step / setting.
 
 ---
 
-### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Students often attempt to access shared or administrative Azure resources when unsure where their own are located.*</br>- *`Reinforcing` the concept of per-student resource groups helps clarify boundaries and access control.*</br>- *`Hands-on guidance` through rule creation strengthens students’ understanding of NSG functionality and firewall logic.*
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *Students often attempt to access shared or administrative Azure resources when unsure where their own are located.*</br>- *`Reinforcing` the concept of per-student resource groups helps clarify boundaries and access control.*</br>- *`Hands-on guidance` through rule creation strengthens students’ understanding of NSG functionality and firewall logic.*
 
 # 14. 𝙾𝙽𝙱𝙾𝙰𝚁𝙳𝙸𝙽𝙶 𝙻𝙸𝙽𝚄𝚇 𝚅𝙼 𝚃𝙾 𝙼𝙳𝙴
 
@@ -582,7 +582,7 @@ Hope this helps!
 
 ---
 
-### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Linux onboarding to MDE is more complex and may require additional support not covered in standard lab videos.*</br>- *`When available, guided tutorials (e.g., videos) provide the clearest learning path for students.*</br>- *`Supplying advanced resources for later exploration encourages independent learning beyond lab requirements.*
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Linux onboarding to MDE` is more complex and may require additional support not covered in standard lab videos.*</br>- *When available, `guided tutorials` provide the clearest learning path for students.*</br>- *`Supplying advanced resources` for later exploration encourages independent learning beyond lab requirements.*
 
 
 
