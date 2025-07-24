@@ -4,7 +4,7 @@
 <img width="350" height="132" alt="LOGN-PACIFIC-Logo-e1713191042203" src="https://github.com/user-attachments/assets/ffa1477a-3e5b-4613-901e-02adda3fb72b" />
 </p>
 
-<h2 = align=center>𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝚃𝙴𝙲𝙷𝙽𝙸𝙲𝙰𝙻 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙿𝙾𝚁𝚃𝙵𝙾𝙻𝙸𝙾</h2>
+<h2 = align=center>WELCOME TO MY TECHNICAL SUPPORT PORTFOLIO</h2>
 
 <h3 = align=center><em>This portfolio highlights the hands-on technical experience, problem-solving strategies, and team support I provided during my cybersecurity internship at <code>LOG(N) Pacific</code>.</em></h3>
 
@@ -16,9 +16,9 @@
 
 <h3 = align=center><em>Thank you for taking the time to review my work! I hope this portfolio gives insight into how I approach problems, support others, and contribute value to a team.</em></h3>
 
-## 📜 𝚃𝙰𝙱𝙻𝙴 𝙾𝙵 𝙲𝙾𝙽𝚃𝙴𝙽𝚃𝚂 
+## 📜 TABLE OF CONTENTS
 
-- `1. AZURE VIRTUAL MACHINE PROVISIONING ERROR`
+- [`1. AZURE VIRTUAL MACHINE PROVISIONING ERROR`](#1-AZURE-VIRTUAL-MACHINE-PROVISIONING-ERROR)
 - `2. ANKI DECK INSTALLATION SUPPORT`
 - `3. NETWORK SECURITY GROUP ACCESS`
 - `4. SYSTEM SERVICE ERROR`
@@ -38,7 +38,7 @@
 - `18. CORRECTING ADMINISTRATOR USER GROUP`
 - `19. MICROSOFT SENTINEL WORKBOOK MAP`
 
-# 1. 𝙰𝚉𝚄𝚁𝙴 𝚅𝙸𝚁𝚃𝚄𝙰𝙻 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙿𝚁𝙾𝚅𝙸𝚂𝙸𝙾𝙽𝙸𝙽𝙶 𝙴𝚁𝚁𝙾𝚁
+# 1. AZURE VIRTUAL MACHINE PROVISIONING ERROR
 
 ### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Cloud Computing / Azure Support`*</br>**Date:** *`2025-06-24`*
 
