@@ -36,6 +36,7 @@
 - `16. DISA WINDOWS 10 STIG HELP`
 - `17. DISA WINDOWS 10 STIG HELP`
 - `18. CORRECTING ADMINISTRATOR USER GROUP`
+- `19. MICROSOFT SENTINEL WORKBOOK MAP`
 
 # 1. 𝙰𝚉𝚄𝚁𝙴 𝚅𝙸𝚁𝚃𝚄𝙰𝙻 𝙼𝙰𝙲𝙷𝙸𝙽𝙴 𝙿𝚁𝙾𝚅𝙸𝚂𝙸𝙾𝙽𝙸𝙽𝙶 𝙴𝚁𝚁𝙾𝚁
 
@@ -722,4 +723,42 @@ Try "Administrators" instead of "Administrator".
 ---
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Built-in Windows user and group names` may be similar but are distinct and must be referenced accurately.*</br>- *`Clear understanding` of user vs. group naming conventions prevents common permission errors.*</br>- *`Providing precise terminology` improves troubleshooting efficiency.*
+
+# 19. 𝙼𝙸𝙲𝚁𝙾𝚂𝙾𝙵𝚃 𝚂𝙴𝙽𝚃𝙸𝙽𝙴𝙻 𝚆𝙾𝚁𝙺𝙱𝙾𝙾𝙺 𝙼𝙰𝙿
+
+### **PLATFORM:** *`Microsoft Sentinel`*</br>**CATEGORY:** *`Workbook Visualization / Data Representation`*</br>**Date:** *`2025-07-24`*
+
+### **USER:** *`Denzel`*</br>**SUBJECT:** *`"Workbook"`*
+
+```
+Hi,
+My workbook when doing the map creations
+gives me a bunch of unexplainable written codes.
+Is this an issue or is there a way to filter this out properly?
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*A user reported that when creating `map visualizations` in their `Microsoft Sentinel` workbook, the output included a series of unintelligible `strings` or codes instead of readable usernames or labels, causing confusion.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Denzel`*
+```
+Hello Denzel
+This isn't an issue.
+The string of characters you're seeing is just the hash of someone's username.
+It's suppose to look like this and can't be filtered out.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*I explained that these strings are hashed representations of usernames or identifiers to protect user privacy and security. Specifically:*
+
+### *1. The codes are hashes, which are by design non-readable and intended to anonymize user data*</br>*2. This behavior is expected and not an error or bug*</br>*3. There is no built-in option to filter or replace these hashes with plaintext usernames for privacy reasons*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*The user understood that the display of hashed usernames is normal and not a cause for concern.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Hashing in workbooks` is a privacy feature to anonymize sensitive information.*</br>- *`Users may need reassurance` that such data representations are intentional and secure.*</br>- *`Providing clear explanations` about data anonymization helps reduce confusion during analysis.*
+
 
