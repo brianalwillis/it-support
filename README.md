@@ -32,7 +32,7 @@
 ### **USER:** *`Denzel`*</br>**SUBJECT:** *`"Is this a problem?"`*
 ```
 I just started the vulnerability section, and it says virtual machine agent status not ready.
-I don' think it matters too much.
+I don't think it matters too much.
 It lets me open my VM normally, but I'd like to make sure.
 I followed everything to the T.
 ```
