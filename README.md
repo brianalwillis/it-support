@@ -228,6 +228,42 @@ and you should see why it aborted.
 
 ---
 
+# 6. 𝚁𝙴𝙼𝙾𝚃𝙴 𝙳𝙴𝚂𝙺𝚃𝙾𝙿 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽 𝙵𝙰𝙸𝙻𝚄𝚁𝙴
+
+### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Remote Access / Virtual Machine Configuration`*</br>**Date:** *`2025-06-27`*
+
+### **USER:** *`Tracie`*</br>**SUBJECT:** *`"Scanning Windows"`*
+
+```
+First time using tenable and following along the lab.
+When you launch the scan -
+is it common to see the status change to aborted.
+```
+
+### 🔴 𝚃𝙷𝙴 𝙿𝚁𝙾𝙱𝙻𝙴𝙼:</br>*An intern was unable to establish a `Remote Desktop Connection` (RDP) to their `Azure-based virtual machine`, which prevented them from accessing the system for their lab work.*
+
+---
+
+### **FROM:** *`Briana`*</br>**TO:** *`Tracie`*
+```
+Hi Tracie,
+You need to delete your current VM and create a new VM
+with a public IP address in order to connect to a remote desktop.
+```
+
+### 🟢 𝚃𝙷𝙴 𝚂𝙾𝙻𝚄𝚃𝙸𝙾𝙽:</br>*After verifying common network and firewall settings, we identified that the VM had been created without a public IP address, making external access via RDP impossible. I advised the student to:*
+
+### *1. Delete the existing virtual machine*</br>*2. Recreate a new VM, ensuring a public IP address was assigned during setup*
+
+---
+
+### ⚪ 𝚃𝙷𝙴 𝙾𝚄𝚃𝙲𝙾𝙼𝙴:</br>*This resolved the connectivity issue, and the student was able to establish a successful RDP session.*
+
+---
+
+### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Public IP assignment` is essential for remote access to cloud-hosted resources.*</br>- *`Understanding VM provisioning steps` helps prevent common misconfigurations.*</br>- *`Clear setup guidance` not only fixed the issue but also gave the student a better grasp of Azure’s networking and RDP requirements.*
+
+---
 
 
 
