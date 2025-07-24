@@ -111,7 +111,7 @@ you should be prompted to import the cards into your ANKI deck.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Understanding user familiarity` with tools like Anki is important—what's intuitive for one person may be unfamiliar to another.*</br>- *`Step-by-step guidance` ensures clarity and builds confidence, especially with new or unfamiliar platforms.*</br>- *`Efficient setup support` enables users to focus on their goals without technical roadblocks.*
 
-# 3. 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙶𝚁𝙾𝚄𝙿 𝙰𝙲𝙲𝙴𝚂𝚂
+# 3. NETWORK SECURITY GROUP ACCESS
 
 ### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Cloud Networking / Azure Permissions`*</br>**Date:** *`2025-06-25`*
 
@@ -154,7 +154,7 @@ Here is where you'll create a new port rule:
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Permission scopes in Azure` can vary between shared and individual resources—clarity on resource ownership is crucial.*</br>- *`Hands-on walkthroughs` are effective for helping users build confidence with cloud networking concepts.*
 
-# 4. 𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙴𝚁𝚁𝙾𝚁
+# 4. SYSTEM SERVICE ERROR
 
 ### **PLATFORM:** *`Linux Virtual Machine`*</br>**CATEGORY:** *`Linux Troubleshooting / Package Management`*</br>**Date:** *`2025-06-26`*
 
@@ -189,7 +189,7 @@ I haven't experienced this issue, but have you tried this fix yet?
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Understanding package-service relationships` is key to diagnosing Linux system issues effectively.*</br>- *`Guided troubleshooting` not only fixes the problem but also helps students build independence and confidence in handling errors.*
 
-# 5. 𝚃𝙴𝙽𝙰𝙱𝙻𝙴 𝚂𝙲𝙰𝙽 𝙰𝙱𝙾𝚁𝚃𝙸𝙽𝙶
+# 5. TENABLE SCAN ABORTING
 
 ### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Vulnerability Scanning / Tenable Troubleshooting`*</br>**Date:** *`2025-06-26`*
 
@@ -227,7 +227,7 @@ and you should see why it aborted.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Reviewing scan logs` is a critical step in diagnosing failures in vulnerability tools like Tenable.*</br>- *`Customizing scan engine settings` can resolve compatibility or resource issues that interrupt automated assessments.*</br>- *`Empowering users to troubleshoot` based on logs promotes better tool fluency and confidence in handling real-world scenarios.*
 
-# 6. 𝚁𝙴𝙼𝙾𝚃𝙴 𝙳𝙴𝚂𝙺𝚃𝙾𝙿 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽 𝙵𝙰𝙸𝙻𝚄𝚁𝙴
+# 6. REMOTE DESKTOP CONNECTION FAILURE
 
 ### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Remote Access / Virtual Machine Configuration`*</br>**Date:** *`2025-06-27`*
 
@@ -304,7 +304,7 @@ and pay close attention to the setup video.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Accurate connection credentials` (username, password, IP) are critical for successful SSH access.*</br>- *`Systematic troubleshooting` can isolate the cause of access issues and avoid unnecessary rework.*</br>- *`Teaching resilient problem-solving`—including when to rebuild a resource—is just as valuable as solving the immediate issue.*
 
-# 8. 𝙰𝙳𝙼𝙸𝙽𝙸𝚂𝚃𝚁𝙰𝚃𝙾𝚁 𝚄𝚂𝙴𝚁 𝙲𝙾𝙽𝙵𝙻𝙸𝙲𝚃
+# 8. ADMINISTRATOR USER CONFLICT
 
 ### **PLATFORM:** *`Windows`*</br>**CATEGORY:** *`Windows User Management / Compliance COnfiguration`*</br>**Date:** *`2025-06-28`*
 
@@ -383,7 +383,7 @@ but you should probably make your own VM for all labs and projects.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Azure Portal filters` can obscure visible resources and are a common cause of user-side visibility issues.*</br>- *`Verifying VM status independently` helps confirm whether the issue is related to the resource or the interface.*</br>- *`Encouraging users` to create and manage their resources promotes learning and reduces dependency on pre-provisioned environments.*
 
-# 10. 𝙳𝙴𝙻𝙰𝚈𝙴𝙳 .𝚃𝚇𝚃 𝚃𝚁𝙸𝙶𝙶𝙴𝚁
+# 10. DELAYED .TXT TRIGGER
 
 ### **PLATFORM:** *`Windows / Tenable`*</br>**CATEGORY:** *`Agent-Based Monitoring / File Trigger Delay`*</br>**Date:** *`2025-06-29`*
 
@@ -423,7 +423,7 @@ I did that as well and I think it took about 30 mins after for the start.txt fil
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Monitoring agents` may experience temporary syncing delays, especially in lab environments.*</br>- *`A manual refresh` often resolves timing issues without deeper troubleshooting.*</br>- *`Providing a buffer window` and explaining system behavior helps manage user expectations effectively.*
 
-# 11. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+# 11. DISA WINDOWS 10 STIG HELP
 
 ### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG Configuration`*</br>**Date:** *`2025-06-29`*
 
@@ -462,7 +462,7 @@ here's a picture:
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Tenable periodically updates` template names and UI elements, which may confuse if training materials are not updated.*</br>- *`Visual aids` like screenshots are highly effective in bridging gaps caused by UI changes.*</br>- *`Encouraging users` to rely on search and keywords in the interface can reduce dependence on outdated walkthroughs.*
 
-# 12. 𝚅𝙰𝚁𝙸𝙰𝚃𝙸𝙾𝙽 𝙸𝙽 𝚅𝚄𝙻𝙽𝙴𝚁𝙰𝙱𝙸𝙻𝙸𝚃𝚈 𝚂𝙲𝙰𝙽 𝚁𝙴𝚂𝚄𝙻𝚃𝚂
+# 12. VARIATION IN VULNERABILITY SCAN RESULTS
 
 ### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Vulnerability Scanning / Lab Result Discrepancy`*</br>**Date:** *`2025-06-29`*
 
@@ -501,7 +501,7 @@ by following his videos you should be fine.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Scans may produce different results` across environments, even when instructions are followed precisely.*</br>- *`Emphasizing learning objectives` over exact replication helps students focus on skill development.*</br>- *`Proactive reassurance` reduces unnecessary troubleshooting or doubt when slight variations occur.*
 
-# 13. 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝙶𝚁𝙾𝚄𝙿 𝙰𝙲𝙲𝙴𝚂𝚂 / 𝙲𝙾𝙽𝙵𝙸𝙶𝚄𝚁𝙰𝚃𝙸𝙾𝙽
+# 13. NETWORK SECURITY GROUP CONFIGURATION
 
 ### **PLATFORM:** *`Microsoft Azure`*</br>**CATEGORY:** *`Network Security Group / Permissions & Inbound Rules`*</br>**Date:** *`2025-06-30`*
 
@@ -541,7 +541,7 @@ Perhaps you missed a step / setting.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *Students often attempt to access shared or administrative Azure resources when unsure where their own are located.*</br>- *`Reinforcing` the concept of per-student resource groups helps clarify boundaries and access control.*</br>- *`Hands-on guidance` through rule creation strengthens students’ understanding of NSG functionality and firewall logic.*
 
-# 14. 𝙾𝙽𝙱𝙾𝙰𝚁𝙳𝙸𝙽𝙶 𝙻𝙸𝙽𝚄𝚇 𝚅𝙼 𝚃𝙾 𝙼𝙳𝙴
+# 14. ONBOARDING LINUX VM TO MDE
 
 ### **PLATFORM:** *`Linux / Microsoft Defender for Endpoint (MDE)`*</br>**CATEGORY:** *`Endpoint Security / VM Onboarding`*</br>**Date:** *`2025-07-07`*
 
@@ -582,7 +582,7 @@ Hope this helps!
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Linux onboarding to MDE` is more complex and may require additional support not covered in standard lab videos.*</br>- *When available, `guided tutorials` provide the clearest learning path for students.*</br>- *`Supplying advanced resources` for later exploration encourages independent learning beyond lab requirements.*
 
-# 15. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+# 15. DISA WINDOWS 10 STIG HELP
 
 ### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG`*</br>**Date:** *`2025-07-07`*
 
@@ -616,7 +616,7 @@ Type "DISA Microsoft" and you should see the Windows 10 option.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Software platforms` may rename or reorganize templates, causing discrepancies with older training materials.*</br>- *`Visual aids` like screenshots are effective for quickly bridging such gaps.*</br>- *`Encouraging use of search tools` helps users adapt to interface updates independently.*
 
-# 16. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+# 16. DISA WINDOWS 10 STIG HELP
 
 ### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG`*</br>**Date:** *`2025-07-10`*
 
@@ -653,7 +653,7 @@ Tenable has since changed it to "DISA Microsoft Windows 10 STIG v3r4".
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Software platforms` may rename or reorganize templates, causing discrepancies with older training materials.*</br>- *`Visual aids` like screenshots are effective for quickly bridging such gaps.*</br>- *`Encouraging use of search tools` helps users adapt to interface updates independently.*
 
-# 17. 𝙳𝙸𝚂𝙰 𝚆𝙸𝙽𝙳𝙾𝚆𝚂 10 𝚂𝚃𝙸𝙶 𝙷𝙴𝙻𝙿
+# 17. DISA WINDOWS 10 STIG HELP
 
 ### **PLATFORM:** *`Tenable`*</br>**CATEGORY:** *`Compliance Templates / DISA STIG`*</br>**Date:** *`2025-07-14`*
 
@@ -689,7 +689,7 @@ The name in Tenable had changed since the making of Josh's video.
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Software platforms` may rename or reorganize templates, causing discrepancies with older training materials.*</br>- *`Visual aids` like screenshots are effective for quickly bridging such gaps.*</br>- *`Encouraging use of search tools` helps users adapt to interface updates independently.*
 
-# 18. 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙸𝙽𝙶 𝙰𝙳𝙼𝙸𝙽𝙸𝚂𝚃𝚁𝙰𝚃𝙾𝚁 𝚄𝚂𝙴𝚁 𝙶𝚁𝙾𝚄𝙿
+# 18. CORRECTING ADMINISTRATOR USER GROUP
 
 ### **PLATFORM:** *`Windows`*</br>**CATEGORY:** *`User Management / Group Assignment`*</br>**Date:** *`2025-07-20`*
 
@@ -724,7 +724,7 @@ Try "Administrators" instead of "Administrator".
 
 ### 🔵 𝙻𝙴𝚂𝚂𝙾𝙽𝚂 𝙻𝙴𝙰𝚁𝙽𝙴𝙳:</br>- *`Built-in Windows user and group names` may be similar but are distinct and must be referenced accurately.*</br>- *`Clear understanding` of user vs. group naming conventions prevents common permission errors.*</br>- *`Providing precise terminology` improves troubleshooting efficiency.*
 
-# 19. 𝙼𝙸𝙲𝚁𝙾𝚂𝙾𝙵𝚃 𝚂𝙴𝙽𝚃𝙸𝙽𝙴𝙻 𝚆𝙾𝚁𝙺𝙱𝙾𝙾𝙺 𝙼𝙰𝙿
+# 19. MICROSOFT SENTINEL WORKBOOK MAP
 
 ### **PLATFORM:** *`Microsoft Sentinel`*</br>**CATEGORY:** *`Workbook Visualization / Data Representation`*</br>**Date:** *`2025-07-24`*
 
